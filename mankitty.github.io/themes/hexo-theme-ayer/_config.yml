@@ -4,9 +4,9 @@ menu:
   归档: /archives
   分类: /categories
   标签: /tags
-  旅行: /tags/旅行/
+  旅行: /travel/
   摄影: http://shenyu-vip.lofter.com
-  关于我: /2019/about
+  关于我: /about
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
@@ -88,7 +88,7 @@ copyright_type: 2
 search: true
 
 # RSS订阅(先安装hexo-generator-feed插件，再去博客根目录config进行配置)
-rss: /atom.xml
+# rss: /atom.xml
 
 # 评论：1、Valine(推荐)；2、Gitalk
 
